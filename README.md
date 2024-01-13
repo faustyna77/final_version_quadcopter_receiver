@@ -1,1 +1,5 @@
 # final_version_quadcopter_receiver![MicrosoftTeams-image (12)](https://github.com/faustyna77/final_version_quadcopter_receiver/assets/110495453/a7ddfb1d-a214-4ff4-adba-59bb000dbf5f)
+![MicrosoftTeams-image (12)](https://github.com/faustyna77/final_version_quadcopter_receiver/assets/110495453/54cb326f-ff0a-453c-9829-3a72bb056018)
+![MicrosoftTeams-image (13)](https://github.com/faustyna77/final_version_quadcopter_receiver/assets/110495453/d603b1b8-3f1b-484f-9cad-5a93ba4cb393)
+![MicrosoftTeams-image (14)](https://github.com/faustyna77/final_version_quadcopter_receiver/assets/110495453/fdc557b7-d482-462b-8940-85870a64361a)
+![MicrosoftTeams-image (15)](https://github.com/faustyna77/final_version_quadcopter_receiver/assets/110495453/48b22e49-f68b-40f5-815f-d0df28808321)
